@@ -5,8 +5,8 @@ function repeat(operation, num) {
     }
 }
 
-    // Do not remove the line below
-    module.exports = repeat
+// Do not remove the line below
+module.exports = repeat
 
 // // Official Solution
 // function repeat(operation, num) {
